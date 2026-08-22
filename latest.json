@@ -1,0 +1,11 @@
+{
+  "version": "1.2.1",
+  "notes": "Baseline: repository di release creato, controllo aggiornamenti attivato da questa versione in poi.",
+  "pub_date": "2026-08-22T08:00:00Z",
+  "platforms": {
+    "windows-x86_64": {
+      "signature": "",
+      "url": ""
+    }
+  }
+}
