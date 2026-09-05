@@ -1,11 +1,11 @@
 {
     "platforms":  {
                       "windows-x86_64":  {
-                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSUjdrRDVNYU9YREpud0NkOVhjZE1uNnN4Z1hJVzg1Z2tsMlI1R3hFL09ySG1tcFNxRXd2L2ZKWmlkbmVhSUo4UjIyRUhYTHFpUE5MUHBpSUxiWllSUXV2VldiUW9TaFFVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg4MTY5ODU4CWZpbGU6RWFzeUNvaW5fMi4wLjlfeDY0LXNldHVwLmV4ZQpLN2ROU3dURUl2K2FYNlI3TXhIMWlDQWtsajM4MloxbnhJQTZiazMzbXpMbXJxWHFjTytYTHAxUkx2YlFHV2FtUFh6SkdENENtR0tnZUhpRjRqL05Ddz09Cg==",
-                                             "url":  "https://github.com/PaoloViero/easycoin-releases/releases/download/v2.0.9/EasyCoin_2.0.9_x64-setup.exe"
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSUjdrRDVNYU9YREpBM0gzNlowNGt0c1dUZFk5eTJOY0hRVTNkRXJIcVorK1VMaENudFNFbm03MlpVUzMzT0poekFJL3NRZ3M1cXduRTRHek9IbDdBQWJrMjQ3bEJuR2djPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg4NjI4ODk2CWZpbGU6RWFzeUNvaW5fMi4yLjBfeDY0LXNldHVwLmV4ZQpXYVNMQUhpU0NTUzBmZ3lpRWprVEpvZEZneG9mRnFkMmpUU2xyTHRrYmxJWGVoWWY3Wlp3T05iamsvY05zU0NnYlNmZkRNNnRsZjJrMzRkMW9ob0hDZz09Cg==",
+                                             "url":  "https://github.com/PaoloViero/easycoin-releases/releases/download/v2.2.0/EasyCoin_2.2.0_x64-setup.exe"
                                          }
                   },
-    "pub_date":  "2026-08-31T09:51:45Z",
-    "version":  "2.0.9",
+    "pub_date":  "2026-09-05T17:21:52Z",
+    "version":  "2.2.0",
     "notes":  "Vedi il file EasyCoin - Changelog.txt sul Desktop."
 }
