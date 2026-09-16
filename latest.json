@@ -1,8 +1,8 @@
 {
     "platforms":  {
                       "windows-x86_64":  {
-                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSUjdrRDVNYU9YRExwR082aktMRitYTUhaY09nWmVpRWh3K1ZkWjBSOGZwU0RZNkEyOXVQdzQrVnJvL3IyNUFBYWovVWpCVTZkQ0p1NnY1S2p5dXpCNnV6dkJPdXlsY0E4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5MjgyMDE2CWZpbGU6RWFzeUNvaW4gQkVUQV8yLjMuMC1iZXRhLjFfeDY0LXNldHVwLmV4ZQpZa2ZYMlR5RjhHSGZsZ0pTeVcrVi94L1J0eDRtWTJPckdhYjFhSWxlQjB6bVpQWDErd2JVanhqQnMrdUg4VFpTeEdKZmZRY3JOTmtybWpsUGJVMGxBQT09Cg==",
-                                             "url":  "https://github.com/PaoloViero/easycoin-releases/releases/download/v2.3.0/EasyCoin BETA_2.3.0-beta.1_x64-setup.exe"
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSUjdrRDVNYU9YREYrV2J0VDBpRUkvWVFXS1FsOCtrSjhXY0VqeVB2eG55RW1CM0NPaWFEN2RLRlhCR09zbmZEclhjeFVUQWNQQ09vUFV5Z3Vjdkg0cXQzZnhkdFhNYmdnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5NTgyNzUzCWZpbGU6RWFzeUNvaW5fMi4zLjBfeDY0LXNldHVwLmV4ZQphS0Z3dlZqWEZ2dEJSUTY3TU1LY0tZNjBhTHNXRzFzTHI0YzFFUUxjTUtxd3c2YjRJYTAxamhxeUk4anF4UWFCeFpMUmgxNmlXZmNFdVk4WG1rYVBBdz09Cg==",
+                                             "url":  "https://github.com/PaoloViero/easycoin-releases/releases/download/v2.3.0/EasyCoin_2.3.0_x64-setup.exe"
                                          }
                   },
     "pub_date":  "2026-09-16T18:20:07Z",
